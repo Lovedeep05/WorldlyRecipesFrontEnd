@@ -14,7 +14,7 @@
         <p style={"background:#f08080; border-radius:1rem;padding-left:1vw;height:3vw; display:flex;;margin-left: 1vw;margin-right:1vw;height:18vw;padding-top:1vw"}>{recipe["description"]}</p>
       </div>
         <div class="infoBox"> 
-        <p style={"font-weight: bold;background:#f08080; border-radius:1rem; padding-right:20vw;padding-left:1vw;height:3vw; display:flex;align-items:center;margin:1vw"}>Ingredients</p>
+        <p style={"font-weight: bold;background:#f08080; border-radius:1rem;padding-left:1vw;height:3vw; display:flex;align-items:center;margin:1vw"}>Ingredients</p>
 
           <div class="info1">
             <ul>
@@ -23,7 +23,7 @@
             {/each}
             </ul>
           </div>
-        <p style={"font-weight: bold;background:#f08080; border-radius:1rem; padding-right:20vw;padding-left:1vw;height:3vw; display:flex;align-items:center;margin:1vw"}>Instructions</p>
+        <p style={"font-weight: bold;background:#f08080; border-radius:1rem;padding-left:1vw;height:3vw; display:flex;align-items:center;margin:1vw"}>Instructions</p>
         <div class="info1">
           <ol>
           {#each recipe["instructions"] as line}
@@ -60,7 +60,7 @@
     border-radius: 1rem;
     overflow: hidden;
     flex-direction: column;
-    width: 98vw;
+    width: 45vw;
   }
 
 img{
