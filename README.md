@@ -1,2 +1,3 @@
-# WorldlyRecipesFrontEnd
-compito di tpi lab, creare un front end di un'applicazione, i dati sono ricavati attraverso una richiesta http
+### Progetto front-end
+
+abbiamo deciso di creare un'applicazione per gestire le ricette, il sito si presenta con un social media, con focus sulla cucina
